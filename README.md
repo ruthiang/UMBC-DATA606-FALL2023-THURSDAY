@@ -1,6 +1,7 @@
 							# RUTH TUAN IANG
 
-### 7359 Wye Ave, Jessup, MD 20794 || (240) 646-4172 || iangruth99@gmail.com || https://www.linkedin.com/in/ruth-iang
+### 7359 Wye Ave, Jessup, MD 20794 || (240) 646-4172 || iangruth99@gmail.com 
+			### https://www.linkedin.com/in/ruth-iang
 
 ## Education
 - Master of Professional Science, Data Science						 December 2023
@@ -14,11 +15,9 @@
 - Classification of New York City’s Crime						            May 2022
 	- Analyzed data using Pandas, NumPy, Seaborn, and pipelines for analyzing data.
 	- Utilized support vector machines, random forest regression, and logistic regression for classifying crimes into 3 level of offenses.
-
 - Data Analysis of New York City Flights to DMV’s Airports                                          December 2022
 	- Conducted data analysis packages to find the best airport in DMV area.
-	- Examined delays, arrival time, and compensation to measure the quality.
- 
+	- Examined delays, arrival time, and compensation to measure the quality. 
 - Data Visualization for Prevalence of Anemia Worldwide			                            May 2022
 	- Employed Plotly, GGplot, Numpy, Pandas for visualizations and data analysis.
 	- Analyzed 200 countries worldwide and factors contributing to Anemia.
