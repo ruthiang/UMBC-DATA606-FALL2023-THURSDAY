@@ -1,10 +1,10 @@
-							# RUTH TUAN IANG
+### RUTH TUAN IANG
 
 ### 7359 Wye Ave, Jessup, MD 20794 || (240) 646-4172 || iangruth99@gmail.com 
 			### https://www.linkedin.com/in/ruth-iang
 
 ## Education
-- Master of Professional Science, Data Science						 December 2023
+- Master of Professional Science, Data Science						  December 2023
 - University of Maryland, Baltimore County				              	  Baltimore, MD
 			             							
 ## Skills
