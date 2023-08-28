@@ -1,20 +1,19 @@
-#RUTH TUAN IANG
+# RUTH TUAN IANG
 
-### 7359 Wye Ave, Jessup, MD 20794 || (240) 646-4172 || iangruth99@gmail.com
-https://www.linkedin.com/in/ruth-iang
+### 7359 Wye Ave, Jessup, MD 20794 || (240) 646-4172 || iangruth99@gmail.com || https://www.linkedin.com/in/ruth-iang
 
 ## Education
-Master of Professional Science, Data Science						 December 2023
-University of Maryland, Baltimore County				              	  Baltimore, MD
+- Master of Professional Science, Data Science						 December 2023
+- University of Maryland, Baltimore County				              	  Baltimore, MD
 			             							
-Skills
-Technical: Microsoft Office Suite (Word, PowerPoint, and Excel)
-Software: SAS, R, Python, SQL-Server, AWS, Tableau
+## Skills
+- Technical: Microsoft Office Suite (Word, PowerPoint, and Excel)
+- Software: SAS, R, Python, SQL-Server, AWS, Tableau
 
-Academic Projects
-Classification of New York City’s Crime						            May 2022
-•	Analyzed data using Pandas, NumPy, Seaborn, and pipelines for analyzing data.
-•	Utilized support vector machines, random forest regression, and logistic regression for classifying crimes into 3 level of offenses.
+## Academic Projects
+- Classification of New York City’s Crime						            May 2022
+	- Analyzed data using Pandas, NumPy, Seaborn, and pipelines for analyzing data.
+	- Utilized support vector machines, random forest regression, and logistic regression for classifying crimes into 3 level of offenses.
 
 Data Analysis of New York City Flights to DMV’s Airports                                         December 2022
 •	Conducted data analysis packages to find the best airport in DMV area.
