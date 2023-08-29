@@ -4,11 +4,11 @@
 ### 7359 Wye Ave, Jessup, MD 20794 | (240) 646-4172 | iangruth99@gmail.com | https://www.linkedin.com/in/ruth-iang
 
 ## Education
-- Master of Professional Science, Data Science						  	December 2023
-	- University of Maryland, Baltimore County				              	Baltimore, MD
+- **Master of Professional Science, Data Science**					December 2023
+- University of Maryland, Baltimore County				              	Baltimore, MD
   
-- Bachelor of Science in Statistics and Economics 						May 2021
-	- George Washington University								Washington, DC
+- **Bachelor of Science in Statistics and Economics**					May 2021
+- George Washington University								Washington, DC
 			             							
 ## Skills
 - Technical: Microsoft Office Suite (Word, PowerPoint, and Excel)
