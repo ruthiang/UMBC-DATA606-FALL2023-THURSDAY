@@ -5,10 +5,10 @@
 
 ## Education
 - Master of Professional Science, Data Science						  	December 2023
-- University of Maryland, Baltimore County				              	  	Baltimore, MD
+	- University of Maryland, Baltimore County				              	Baltimore, MD
   
 - Bachelor of Science in Statistics and Economics 						May 2021
-- George Washington University									Washington, DC
+	- George Washington University								Washington, DC
 			             							
 ## Skills
 - Technical: Microsoft Office Suite (Word, PowerPoint, and Excel)
