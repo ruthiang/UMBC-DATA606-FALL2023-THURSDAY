@@ -1,7 +1,6 @@
+# RUTH TUAN IANG
 
 ![CABCA20D-875D-4C8F-8090-BD7784C2302E_1_105_c](https://github.com/ruthiang/UMBC-DATA606-FALL2023-THURSDAY/assets/98433448/124acecd-6cbb-4166-bd01-21f43665bfb1)
-
-# RUTH TUAN IANG
 
 ### 7359 Wye Ave, Jessup, MD 20794 || (240) 646-4172 || iangruth99@gmail.com 
 
