@@ -1,4 +1,4 @@
-<img src="https://github.com/ruthiang/UMBC-DATA606-FALL2023-THURSDAY/assets/98433448/124acecd-6cbb-4166-bd01-21f43665bfb1|height=20|width=10" width="5-0" height="400"># # 
+<img src="https://github.com/ruthiang/UMBC-DATA606-FALL2023-THURSDAY/assets/98433448/124acecd-6cbb-4166-bd01-21f43665bfb1|height=20|width=10" width="500" height="400"># # 
 
 # RUTH TUAN IANG 
 ### 7359 Wye Ave, Jessup, MD 20794 | (240) 646-4172 | iangruth99@gmail.com | https://www.linkedin.com/in/ruth-iang
