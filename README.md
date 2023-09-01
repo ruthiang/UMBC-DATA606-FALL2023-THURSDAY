@@ -18,7 +18,7 @@
 - Lakehouse Fundamentals Accreditation Certificate
 
 ## Academic Projects
-- Classification of New York City’s Crime						            May 2022
+- Classification of New York City’s Crime						            May 2023
 	- Analyzed data using Pandas, NumPy, Seaborn,Tensorflow, kERAS and pipelines.
  	- Cleaned Unstructured data by removing duplicates, null values, and outliers.
 	- Utilized support vector machines, random forest regression, and logistic regression for classifying crimes into 3 level of offenses.
