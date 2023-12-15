@@ -2,10 +2,10 @@
 
 - Author: Ruth Iang
 - Prepared for UMBC Data Science Masters Degree Capstone Class, Fall 2023
-- https://github.com/DATA-606-2023-FALL-THURSDAY/Iang_Ruth
+- Link to Personal Github Repo: https://github.com/ruthiang/UMBC-DATA606-FALL2023-THURSDAY
 - Linkedin: https://www.linkedin.com/in/ruth-iang
-- Link to your PowerPoint presentation file: https://github.com/DATA-606-2023-FALL-THURSDAY/Iang_Ruth/blob/main/Docs/DATA%20606%20Capstone%20Project.pdf
-- Link to your YouTube video
+- Link to PowerPoint: https://github.com/DATA-606-2023-FALL-THURSDAY/Iang_Ruth/blob/main/Docs/DATA%20606%20Capstone%20Project.pptx
+- Link YouTube video: https://youtu.be/dqTrFKli7HA 
 
 # Background
 This project aims to categorize medical device recalls into three classes based on the severity of their violations of Food and Drug Administration (FDA) laws. Recalls occur when products need correction or removal due to potential risks of injury, deception, or defects, with the goal of safeguarding public health.
